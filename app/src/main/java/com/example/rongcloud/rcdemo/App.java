@@ -106,6 +106,27 @@ public class App extends Application {
 //                return false;
 //            }
 //        });
+        RongIM.setConversationListBehaviorListener(new RongIM.ConversationListBehaviorListener() {
+            @Override
+            public boolean onConversationPortraitClick(Context context, Conversation.ConversationType conversationType, String s) {
+                return false;
+            }
+
+            @Override
+            public boolean onConversationPortraitLongClick(Context context, Conversation.ConversationType conversationType, String s) {
+                return false;
+            }
+
+            @Override
+            public boolean onConversationLongClick(Context context, View view, UIConversation uiConversation) {
+                return false;
+            }
+
+            @Override
+            public boolean onConversationClick(Context context, View view, UIConversation uiConversation) {
+                return false;
+            }
+        });
 
         RongIM.setOnReceiveMessageListener(new RongIMClient.OnReceiveMessageListener() {
             @Override
@@ -125,6 +146,12 @@ public class App extends Application {
             @Override
             public boolean onSent(Message message, RongIM.SentMessageErrorCode sentMessageErrorCode) {
                 return false;
+            }
+        });
+        RongIM.setConnectionStatusListener(new RongIMClient.ConnectionStatusListener() {
+            @Override
+            public void onChanged(ConnectionStatus connectionStatus) {
+                Log.i(TAG, "onChanged: connectionStatus=" + connectionStatus.getMessage());
             }
         });
     }
