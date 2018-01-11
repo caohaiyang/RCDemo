@@ -16,264 +16,264 @@
         <item>.wma</item>
     </array>
     <integer-array name="rc_emoji_code">
-            <item>0x1f60a</item>
-            <item>0x1f628</item>
-            <item>0x1f60d</item>
-            <item>0x1f633</item>
-            <item>0x1f60e</item>
-            <item>0x1f62d</item>
-            <item>0x1f60c</item>
-            <item>0x1f635</item>
-            <item>0x1f634</item>
-            <item>0x1f622</item>
-            <item>0x1f605</item>
-            <item>0x1f621</item>
-            <item>0x1f61c</item>
-            <item>0x1f600</item>
-            <item>0x1f632</item>
-            <item>0x1f61f</item>
-            <item>0x1f624</item>
-            <item>0x1f61e</item>
-            <item>0x1f62b</item>
-            <item>0x1f623</item>
-            <item>0x1f608</item>
-            <item>0x1f609</item>
-            <item>0x1f62f</item>
-            <item>0x1f615</item>
-            <item>0x1f630</item>
-            <item>0x1f60b</item>
-            <item>0x1f61d</item>
-            <item>0x1f613</item>
-            <item>0x1f603</item>
-            <item>0x1f602</item>
-            <item>0x1f618</item>
-            <item>0x1f612</item>
-            <item>0x1f60f</item>
-            <item>0x1f636</item>
-            <item>0x1f631</item>
-            <item>0x1f616</item>
-            <item>0x1f629</item>
-            <item>0x1f614</item>
-            <item>0x1f611</item>
-            <item>0x1f61a</item>
-            <item>0x1f62a</item>
-            <item>0x1f607</item>
-            <item>0x1f64a</item>
-            <item>0x1f44a</item>
-            <item>0x1f44e</item>
-            <item>0x261d</item>
-            <item>0x270c</item>
-            <item>0x1f62c</item>
-            <item>0x1f637</item>
-            <item>0x1f648</item>
-            <item>0x1f44c</item>
-            <item>0x1f44f</item>
-            <item>0x270a</item>
-            <item>0x1f4aa</item>
-            <item>0x1f606</item>
-            <item>0x263a</item>
-            <item>0x1f649</item>
-            <item>0x1f44d</item>
-            <item>0x1f64f</item>
-            <item>0x270b</item>
-            <item>0x2600</item>
-            <item>0x2615</item>
-            <item>0x26c4</item>
-            <item>0x1f4da</item>
-            <item>0x1f381</item>
-            <item>0x1f389</item>
-            <item>0x1f366</item>
-            <item>0x2601</item>
-            <item>0x2744</item>
-            <item>0x26a1</item>
-            <item>0x1f4b0</item>
-            <item>0x1f382</item>
-            <item>0x1f393</item>
-            <item>0x1f356</item>
-            <item>0x2614</item>
-            <item>0x26c5</item>
-            <item>0x270f</item>
-            <item>0x1f4a9</item>
-            <item>0x1f384</item>
-            <item>0x1f377</item>
-            <item>0x1f3a4</item>
-            <item>0x1f3c0</item>
-            <item>0x1f004</item>
-            <item>0x1f4a3</item>
-            <item>0x1f4e2</item>
-            <item>0x1f30f</item>
-            <item>0x1f36b</item>
-            <item>0x1f3b2</item>
-            <item>0x1f3c2</item>
-            <item>0x1f4a1</item>
-            <item>0x1f4a4</item>
-            <item>0x1f6ab</item>
-            <item>0x1f33b</item>
-            <item>0x1f37b</item>
-            <item>0x1f3b5</item>
-            <item>0x1f3e1</item>
-            <item>0x1f4a2</item>
-            <item>0x1f4de</item>
-            <item>0x1f6bf</item>
-            <item>0x1f35a</item>
-            <item>0x1f46a</item>
-            <item>0x1f47c</item>
-            <item>0x1f48a</item>
-            <item>0x1f52b</item>
-            <item>0x1f339</item>
-            <item>0x1f436</item>
-            <item>0x1f484</item>
-            <item>0x1f46b</item>
-            <item>0x1f47d</item>
-            <item>0x1f48b</item>
-            <item>0x1f319</item>
-            <item>0x1f349</item>
-            <item>0x1f437</item>
-            <item>0x1f494</item>
-            <item>0x1f47b</item>
-            <item>0x1f47f</item>
-            <item>0x1f48d</item>
-            <item>0x1f332</item>
-            <item>0x1f434</item>
-            <item>0x1f451</item>
-            <item>0x1f525</item>
-            <item>0x2b50</item>
-            <item>0x26bd</item>
-            <item>0x1f556</item>
-            <item>0x23f0</item>
-            <item>0x1f601</item>
-            <item>0x1f680</item>
-            <item>0x23f3</item>
-        </integer-array>
+        <item>0x1f603</item>
+        <item>0x1f600</item>
+        <item>0x1f60a</item>
+        <item>0x263a</item>
+        <item>0x1f609</item>
+        <item>0x1f60d</item>
+        <item>0x1f618</item>
+        <item>0x1f61a</item>
+        <item>0x1f61c</item>
+        <item>0x1f61d</item>
+        <item>0x1f633</item>
+        <item>0x1f601</item>
+        <item>0x1f614</item>
+        <item>0x1f60c</item>
+        <item>0x1f612</item>
+        <item>0x1f61f</item>
+        <item>0x1f61e</item>
+        <item>0x1f623</item>
+        <item>0x1f622</item>
+        <item>0x1f602</item>
+        <item>0x1f62d</item>
+        <item>0x1f62a</item>
+        <item>0x1f630</item>
+        <item>0x1f605</item>
+        <item>0x1f613</item>
+        <item>0x1f62b</item>
+        <item>0x1f629</item>
+        <item>0x1f628</item>
+        <item>0x1f631</item>
+        <item>0x1f621</item>
+        <item>0x1f624</item>
+        <item>0x1f616</item>
+        <item>0x1f606</item>
+        <item>0x1f60b</item>
+        <item>0x1f637</item>
+        <item>0x1f60e</item>
+        <item>0x1f634</item>
+        <item>0x1f632</item>
+        <item>0x1f635</item>
+        <item>0x1f608</item>
+        <item>0x1f47f</item>
+        <item>0x1f62f</item>
+        <item>0x1f62c</item>
+        <item>0x1f615</item>
+        <item>0x1f636</item>
+        <item>0x1f607</item>
+        <item>0x1f60f</item>
+        <item>0x1f611</item>
+        <item>0x1f648</item>
+        <item>0x1f649</item>
+        <item>0x1f64a</item>
+        <item>0x1f47d</item>
+        <item>0x1f4a9</item>
+        <item>0x1f494</item>
+        <item>0x1f525</item>
+        <item>0x1f4a2</item>
+        <item>0x1f4a4</item>
+        <item>0x1f6ab</item>
+        <item>0x2b50</item>
+        <item>0x26a1</item>
+        <item>0x1f319</item>
+        <item>0x2600</item>
+        <item>0x26c5</item>
+        <item>0x2601</item>
+        <item>0x2744</item>
+        <item>0x2614</item>
+        <item>0x26c4</item>
+        <item>0x1f44d</item>
+        <item>0x1f44e</item>
+        <item>0x1f44c</item>
+        <item>0x1f44a</item>
+        <item>0x270a</item>
+        <item>0x270c</item>
+        <item>0x270b</item>
+        <item>0x1f64f</item>
+        <item>0x261d</item>
+        <item>0x1f44f</item>
+        <item>0x1f4aa</item>
+        <item>0x1f46a</item>
+        <item>0x1f46b</item>
+        <item>0x1f47c</item>
+        <item>0x1f434</item>
+        <item>0x1f436</item>
+        <item>0x1f437</item>
+        <item>0x1f47b</item>
+        <item>0x1f339</item>
+        <item>0x1f33b</item>
+        <item>0x1f332</item>
+        <item>0x1f384</item>
+        <item>0x1f381</item>
+        <item>0x1f389</item>
+        <item>0x1f4b0</item>
+        <item>0x1f382</item>
+        <item>0x1f356</item>
+        <item>0x1f35a</item>
+        <item>0x1f366</item>
+        <item>0x1f36b</item>
+        <item>0x1f349</item>
+        <item>0x1f377</item>
+        <item>0x1f37b</item>
+        <item>0x2615</item>
+        <item>0x1f3c0</item>
+        <item>0x26bd</item>
+        <item>0x1f3c2</item>
+        <item>0x1f3a4</item>
+        <item>0x1f3b5</item>
+        <item>0x1f3b2</item>
+        <item>0x1f004</item>
+        <item>0x1f451</item>
+        <item>0x1f484</item>
+        <item>0x1f48b</item>
+        <item>0x1f48d</item>
+        <item>0x1f4da</item>
+        <item>0x1f393</item>
+        <item>0x270f</item>
+        <item>0x1f3e1</item>
+        <item>0x1f6bf</item>
+        <item>0x1f4a1</item>
+        <item>0x1f4de</item>
+        <item>0x1f4e2</item>
+        <item>0x1f556</item>
+        <item>0x23f0</item>
+        <item>0x23f3</item>
+        <item>0x1f4a3</item>
+        <item>0x1f52b</item>
+        <item>0x1f48a</item>
+        <item>0x1f680</item>
+        <item>0x1f30f</item>
+    </integer-array>
     <array name="rc_emoji_res">
-        <item>@drawable/u1f60a</item>
-        <item>@drawable/u1f628</item>
-        <item>@drawable/u1f60d</item>
-        <item>@drawable/u1f633</item>
-        <item>@drawable/u1f60e</item>
-        <item>@drawable/u1f62d</item>
-        <item>@drawable/u1f60c</item>
-        <item>@drawable/u1f635</item>
-        <item>@drawable/u1f634</item>
-        <item>@drawable/u1f622</item>
-        <item>@drawable/u1f605</item>
-        <item>@drawable/u1f621</item>
-        <item>@drawable/u1f61c</item>
-        <item>@drawable/u1f600</item>
-        <item>@drawable/u1f632</item>
-        <item>@drawable/u1f61f</item>
-        <item>@drawable/u1f624</item>
-        <item>@drawable/u1f61e</item>
-        <item>@drawable/u1f62b</item>
-        <item>@drawable/u1f623</item>
-        <item>@drawable/u1f608</item>
-        <item>@drawable/u1f609</item>
-        <item>@drawable/u1f62f</item>
-        <item>@drawable/u1f615</item>
-        <item>@drawable/u1f630</item>
-        <item>@drawable/u1f60b</item>
-        <item>@drawable/u1f61d</item>
-        <item>@drawable/u1f613</item>
         <item>@drawable/u1f603</item>
-        <item>@drawable/u1f602</item>
-        <item>@drawable/u1f618</item>
-        <item>@drawable/u1f612</item>
-        <item>@drawable/u1f60f</item>
-        <item>@drawable/u1f636</item>
-        <item>@drawable/u1f631</item>
-        <item>@drawable/u1f616</item>
-        <item>@drawable/u1f629</item>
-        <item>@drawable/u1f614</item>
-        <item>@drawable/u1f611</item>
-        <item>@drawable/u1f61a</item>
-        <item>@drawable/u1f62a</item>
-        <item>@drawable/u1f607</item>
-        <item>@drawable/u1f64a</item>
-        <item>@drawable/u1f44a</item>
-        <item>@drawable/u1f44e</item>
-        <item>@drawable/u261d</item>
-        <item>@drawable/u270c</item>
-        <item>@drawable/u1f62c</item>
-        <item>@drawable/u1f637</item>
-        <item>@drawable/u1f648</item>
-        <item>@drawable/u1f44c</item>
-        <item>@drawable/u1f44f</item>
-        <item>@drawable/u270a</item>
-        <item>@drawable/u1f4aa</item>
-        <item>@drawable/u1f606</item>
+        <item>@drawable/u1f600</item>
+        <item>@drawable/u1f60a</item>
         <item>@drawable/u263a</item>
+        <item>@drawable/u1f609</item>
+        <item>@drawable/u1f60d</item>
+        <item>@drawable/u1f618</item>
+        <item>@drawable/u1f61a</item>
+        <item>@drawable/u1f61c</item>
+        <item>@drawable/u1f61d</item>
+        <item>@drawable/u1f633</item>
+        <item>@drawable/u1f601</item>
+        <item>@drawable/u1f614</item>
+        <item>@drawable/u1f60c</item>
+        <item>@drawable/u1f612</item>
+        <item>@drawable/u1f61f</item>
+        <item>@drawable/u1f61e</item>
+        <item>@drawable/u1f623</item>
+        <item>@drawable/u1f622</item>
+        <item>@drawable/u1f602</item>
+        <item>@drawable/u1f62d</item>
+        <item>@drawable/u1f62a</item>
+        <item>@drawable/u1f630</item>
+        <item>@drawable/u1f605</item>
+        <item>@drawable/u1f613</item>
+        <item>@drawable/u1f62b</item>
+        <item>@drawable/u1f629</item>
+        <item>@drawable/u1f628</item>
+        <item>@drawable/u1f631</item>
+        <item>@drawable/u1f621</item>
+        <item>@drawable/u1f624</item>
+        <item>@drawable/u1f616</item>
+        <item>@drawable/u1f606</item>
+        <item>@drawable/u1f60b</item>
+        <item>@drawable/u1f637</item>
+        <item>@drawable/u1f60e</item>
+        <item>@drawable/u1f634</item>
+        <item>@drawable/u1f632</item>
+        <item>@drawable/u1f635</item>
+        <item>@drawable/u1f608</item>
+        <item>@drawable/u1f47f</item>
+        <item>@drawable/u1f62f</item>
+        <item>@drawable/u1f62c</item>
+        <item>@drawable/u1f615</item>
+        <item>@drawable/u1f636</item>
+        <item>@drawable/u1f607</item>
+        <item>@drawable/u1f60f</item>
+        <item>@drawable/u1f611</item>
+        <item>@drawable/u1f648</item>
         <item>@drawable/u1f649</item>
-        <item>@drawable/u1f44d</item>
-        <item>@drawable/u1f64f</item>
-        <item>@drawable/u270b</item>
-        <item>@drawable/u2600</item>
-        <item>@drawable/u2615</item>
-        <item>@drawable/u26c4</item>
-        <item>@drawable/u1f4da</item>
-        <item>@drawable/u1f381</item>
-        <item>@drawable/u1f389</item>
-        <item>@drawable/u1f366</item>
-        <item>@drawable/u2601</item>
-        <item>@drawable/u2744</item>
-        <item>@drawable/u26a1</item>
-        <item>@drawable/u1f4b0</item>
-        <item>@drawable/u1f382</item>
-        <item>@drawable/u1f393</item>
-        <item>@drawable/u1f356</item>
-        <item>@drawable/u2614</item>
-        <item>@drawable/u26c5</item>
-        <item>@drawable/u270f</item>
+        <item>@drawable/u1f64a</item>
+        <item>@drawable/u1f47d</item>
         <item>@drawable/u1f4a9</item>
-        <item>@drawable/u1f384</item>
-        <item>@drawable/u1f377</item>
-        <item>@drawable/u1f3a4</item>
-        <item>@drawable/u1f3c0</item>
-        <item>@drawable/u1f004</item>
-        <item>@drawable/u1f4a3</item>
-        <item>@drawable/u1f4e2</item>
-        <item>@drawable/u1f30f</item>
-        <item>@drawable/u1f36b</item>
-        <item>@drawable/u1f3b2</item>
-        <item>@drawable/u1f3c2</item>
-        <item>@drawable/u1f4a1</item>
+        <item>@drawable/u1f494</item>
+        <item>@drawable/u1f525</item>
+        <item>@drawable/u1f4a2</item>
         <item>@drawable/u1f4a4</item>
         <item>@drawable/u1f6ab</item>
-        <item>@drawable/u1f33b</item>
-        <item>@drawable/u1f37b</item>
-        <item>@drawable/u1f3b5</item>
-        <item>@drawable/u1f3e1</item>
-        <item>@drawable/u1f4a2</item>
-        <item>@drawable/u1f4de</item>
-        <item>@drawable/u1f6bf</item>
-        <item>@drawable/u1f35a</item>
-        <item>@drawable/u1f46a</item>
-        <item>@drawable/u1f47c</item>
-        <item>@drawable/u1f48a</item>
-        <item>@drawable/u1f52b</item>
-        <item>@drawable/u1f339</item>
-        <item>@drawable/u1f436</item>
-        <item>@drawable/u1f484</item>
-        <item>@drawable/u1f46b</item>
-        <item>@drawable/u1f47d</item>
-        <item>@drawable/u1f48b</item>
-        <item>@drawable/u1f319</item>
-        <item>@drawable/u1f349</item>
-        <item>@drawable/u1f437</item>
-        <item>@drawable/u1f494</item>
-        <item>@drawable/u1f47b</item>
-        <item>@drawable/u1f47f</item>
-        <item>@drawable/u1f48d</item>
-        <item>@drawable/u1f332</item>
-        <item>@drawable/u1f434</item>
-        <item>@drawable/u1f451</item>
-        <item>@drawable/u1f525</item>
         <item>@drawable/u2b50</item>
+        <item>@drawable/u26a1</item>
+        <item>@drawable/u1f319</item>
+        <item>@drawable/u2600</item>
+        <item>@drawable/u26c5</item>
+        <item>@drawable/u2601</item>
+        <item>@drawable/u2744</item>
+        <item>@drawable/u2614</item>
+        <item>@drawable/u26c4</item>
+        <item>@drawable/u1f44d</item>
+        <item>@drawable/u1f44e</item>
+        <item>@drawable/u1f44c</item>
+        <item>@drawable/u1f44a</item>
+        <item>@drawable/u270a</item>
+        <item>@drawable/u270c</item>
+        <item>@drawable/u270b</item>
+        <item>@drawable/u1f64f</item>
+        <item>@drawable/u261d</item>
+        <item>@drawable/u1f44f</item>
+        <item>@drawable/u1f4aa</item>
+        <item>@drawable/u1f46a</item>
+        <item>@drawable/u1f46b</item>
+        <item>@drawable/u1f47c</item>
+        <item>@drawable/u1f434</item>
+        <item>@drawable/u1f436</item>
+        <item>@drawable/u1f437</item>
+        <item>@drawable/u1f47b</item>
+        <item>@drawable/u1f339</item>
+        <item>@drawable/u1f33b</item>
+        <item>@drawable/u1f332</item>
+        <item>@drawable/u1f384</item>
+        <item>@drawable/u1f381</item>
+        <item>@drawable/u1f389</item>
+        <item>@drawable/u1f4b0</item>
+        <item>@drawable/u1f382</item>
+        <item>@drawable/u1f356</item>
+        <item>@drawable/u1f35a</item>
+        <item>@drawable/u1f366</item>
+        <item>@drawable/u1f36b</item>
+        <item>@drawable/u1f349</item>
+        <item>@drawable/u1f377</item>
+        <item>@drawable/u1f37b</item>
+        <item>@drawable/u2615</item>
+        <item>@drawable/u1f3c0</item>
         <item>@drawable/u26bd</item>
+        <item>@drawable/u1f3c2</item>
+        <item>@drawable/u1f3a4</item>
+        <item>@drawable/u1f3b5</item>
+        <item>@drawable/u1f3b2</item>
+        <item>@drawable/u1f004</item>
+        <item>@drawable/u1f451</item>
+        <item>@drawable/u1f484</item>
+        <item>@drawable/u1f48b</item>
+        <item>@drawable/u1f48d</item>
+        <item>@drawable/u1f4da</item>
+        <item>@drawable/u1f393</item>
+        <item>@drawable/u270f</item>
+        <item>@drawable/u1f3e1</item>
+        <item>@drawable/u1f6bf</item>
+        <item>@drawable/u1f4a1</item>
+        <item>@drawable/u1f4de</item>
+        <item>@drawable/u1f4e2</item>
         <item>@drawable/u1f556</item>
         <item>@drawable/u23f0</item>
-        <item>@drawable/u1f601</item>
-        <item>@drawable/u1f680</item>
         <item>@drawable/u23f3</item>
+        <item>@drawable/u1f4a3</item>
+        <item>@drawable/u1f52b</item>
+        <item>@drawable/u1f48a</item>
+        <item>@drawable/u1f680</item>
+        <item>@drawable/u1f30f</item>
     </array>
     <array name="rc_excel_file_suffix">
         <item>.xla</item>
@@ -373,9 +373,9 @@
         <item>.dot</item>
         <item>.docx</item>
     </array>
-    <bool name="rc_enable_mentioned_message">true</bool>
+    <bool name="rc_enable_mentioned_message">false</bool>
     <bool name="rc_enable_message_recall">false</bool>
-    <bool name="rc_enable_sync_read_status">true</bool>
+    <bool name="rc_enable_sync_read_status">false</bool>
     <bool name="rc_is_show_warning_notification">true</bool>
     <bool name="rc_play_audio_continuous">true</bool>
     <bool name="rc_read_receipt">false</bool>
@@ -442,7 +442,15 @@
     <dimen name="rc_conversation_item_data_size">14sp</dimen>
     <dimen name="rc_conversation_item_name_size">16sp</dimen>
     <dimen name="rc_conversation_item_time_size">13sp</dimen>
+    <dimen name="rc_dimen_size_18">18dp</dimen>
+    <dimen name="rc_dimen_size_24">24dp</dimen>
     <dimen name="rc_dimen_size_3">3dp</dimen>
+    <dimen name="rc_dimen_size_40">40dp</dimen>
+    <dimen name="rc_dimen_size_44">44dp</dimen>
+    <dimen name="rc_dimen_size_5">5dp</dimen>
+    <dimen name="rc_dimen_size_50">50dp</dimen>
+    <dimen name="rc_dimen_size_7">7dp</dimen>
+    <dimen name="rc_dimen_size_9">9dp</dimen>
     <dimen name="rc_extension_board_height">282dp</dimen>
     <dimen name="rc_popup_dialog_distance_to_edge">40dp</dimen>
     <item name="rc_actionbar" type="id"/>
@@ -505,6 +513,7 @@
     <integer name="rc_extension_emoji_count_per_page">20</integer>
     <integer name="rc_extension_plugin_count_per_page">8</integer>
     <integer name="rc_message_recall_interval">180</integer>
+    <integer name="rc_read_receipt_request_interval">120</integer>
     <string name="rc_ac_file_download_btn">开始下载</string>
     <string name="rc_ac_file_download_open_file_btn">用其他应用打开</string>
     <string name="rc_ac_file_download_preview">文件预览</string>
@@ -543,8 +552,10 @@
     <string name="rc_android.permission.READ_EXTERNAL_STORAGE">存储空间</string>
     <string name="rc_android.permission.RECORD_AUDIO">麦克风</string>
     <string name="rc_android.permission.WRITE_EXTERNAL_STORAGE">存储空间</string>
+    <string name="rc_android.settings.action.MANAGE_OVERLAY_PERMISSION">悬浮窗</string>
     <string name="rc_audio_input">按住 说话</string>
     <string name="rc_audio_input_hover">松开 发送</string>
+    <string name="rc_authorities_fileprovider">.FileProvider</string>
     <string name="rc_blacklist_prompt">您已被加入黑名单</string>
     <string name="rc_called_accept">对方接受了通话请求</string>
     <string name="rc_called_is_calling">对方正在通话中</string>
@@ -608,8 +619,8 @@
     <string name="rc_discussion_nt_msg_for_you">"你"</string>
     <string name="rc_exit_calling">是否退出通话界面？</string>
     <string name="rc_ext_cancel">取消</string>
-    <string name="rc_ext_exit_confirm">结束共享</string>
     <string name="rc_ext_exit_location_sharing">是否结束位置共享？</string>
+    <string name="rc_ext_exit_location_sharing_confirm">结束共享</string>
     <string name="rc_ext_location_permission_failed">您需要在设置里打开定位权限</string>
     <string name="rc_ext_send">发送</string>
     <string name="rc_ext_warning">提示</string>
@@ -623,7 +634,7 @@
     <string name="rc_fr_file_category_title_video">视频</string>
     <string name="rc_fr_file_list_most_selected_files">您最多只能选择20个文件</string>
     <string name="rc_fr_loading_file_message">加载中...</string>
-    <string name="rc_fr_no_file_message">还没有%1$s文件</string>
+    <string name="rc_fr_no_file_message">没有%1$s文件</string>
     <string name="rc_fr_storage_folder_list_no_files">无法读取%1$s中的文件</string>
     <string name="rc_fr_storage_folder_list_search">搜索</string>
     <string name="rc_friday_format">周五</string>
@@ -655,6 +666,7 @@
     <string name="rc_location_fail">定位失败</string>
     <string name="rc_location_fetching">获取中……</string>
     <string name="rc_location_sharing_exceed_max">超过最大位置共享人数</string>
+    <string name="rc_location_temp_failed">定位失败，请稍后重试</string>
     <string name="rc_message_content_draft">[草稿]</string>
     <string name="rc_message_content_file">[文件]</string>
     <string name="rc_message_content_image">[图片]</string>
@@ -666,7 +678,7 @@
     <string name="rc_message_unread_count">"···"</string>
     <string name="rc_monday_format">周一</string>
     <string name="rc_month_format">月</string>
-    <string name="rc_morning_format">早上</string>
+    <string name="rc_morning_format">上午</string>
     <string name="rc_name">融云</string>
     <string name="rc_network_error">网络连接错误</string>
     <string name="rc_network_exception">网络异常请稍后再试</string>
@@ -711,7 +723,6 @@
     <string name="rc_plugin_location_sharing">共享实时位置</string>
     <string name="rc_plugins_camera">相机</string>
     <string name="rc_plugins_files">文件</string>
-    <string name="rc_plugins_location">位置</string>
     <string name="rc_plugins_voip">语音通话</string>
     <string name="rc_pub_service_info_account">公众号：%s</string>
     <string name="rc_pub_service_info_description">功能介绍</string>
@@ -753,6 +764,7 @@
     <string name="rc_voice_short">录音时间太短</string>
     <string name="rc_voice_too_long">录制时间超长</string>
     <string name="rc_voip_cpu_error">很抱歉，该功能暂时不支持您的机型</string>
+    <string name="rc_voip_occupying">声音通道正被占用，请稍后再试</string>
     <string name="rc_waiting">等待中</string>
     <string name="rc_wednesday_format">周三</string>
     <string name="rc_year_format">年</string>
@@ -775,8 +787,7 @@
     </style>
     <style name="RCTheme.Message.TextView" parent="RCTheme.TextView">
         <item name="android:textSize">16sp</item>
-        <!--<item name="android:textColor">@color/rc_text_color_primary</item>-->
-        <item name="android:textColor">#ec0c0c</item>
+        <item name="android:textColor">@color/rc_text_color_primary</item>
     </style>
     <style name="RCTheme.Message.Username.TextView" parent="RCTheme.TextView">
         <item name="android:textSize">14sp</item>

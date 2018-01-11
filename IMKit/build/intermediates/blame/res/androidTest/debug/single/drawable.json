@@ -8,6 +8,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/bundles/debug/res/drawable/rc_btn_input.xml"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_icon_background.xml"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_corner_voice_style.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/bundles/debug/res/drawable/rc_corner_voice_style.xml"
     },
@@ -160,6 +164,14 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/bundles/debug/res/drawable/rc_cs_submit_comment.xml"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_switch_btn.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/bundles/debug/res/drawable/rc_switch_btn.xml"
     },
@@ -234,6 +246,10 @@
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_menu_background_selector.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/bundles/debug/res/drawable/rc_menu_background_selector.xml"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/androidTest/debug/drawable/rc_an_voice_receive.xml",

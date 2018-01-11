@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "io.rong.imlib";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 2017071815;
-  public static final String VERSION_NAME = "2.8.14 Stable";
+  public static final int VERSION_CODE = 2018010415;
+  public static final String VERSION_NAME = "2.8.26 Stable";
 }

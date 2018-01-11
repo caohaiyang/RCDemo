@@ -76,6 +76,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_cs_ratingbar.xml"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_btn_public_service_unfollow_selector.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_btn_public_service_unfollow_selector.xml"
     },
@@ -86,6 +90,10 @@
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_bg_mentionlist_item.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_bg_mentionlist_item.xml"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_item_top_list_selector.xml",
@@ -200,12 +208,20 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_corner_popup_dialog_style.xml"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_bg.xml"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_cs_corner_single_check_style.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_cs_corner_single_check_style.xml"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_sp_grid_mask.xml",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable/rc_sp_grid_mask.xml"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/debug/drawable/rc_corner_voice_style.xml",

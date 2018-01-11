@@ -2,14 +2,12 @@
 <resources>
     <string name="rc_name">RongCloud</string>
 
-    <string name="rc_voice_dialog_swipe">Slide up to cancel</string>
-    <string name="rc_voice_dialog_cancel_send">Release to cancel</string>
-    <string name="rc_voice_dialog_time_short">Audio recorder short</string>
     <string name="rc_voice_rec">Slide up to cancel</string>
     <string name="rc_voice_cancel">Release to cancel</string>
     <string name="rc_voice_short">Message too short</string>
     <string name="rc_voice_failure"> Message error!</string>
     <string name="rc_voice_too_long">Message too long</string>
+    <string name="rc_voip_occupying">Audio is holding by other function. Try again later.</string>
 
     <!-- discussion_notification_msg -->
     <string name="rc_discussion_nt_msg_for_rename">"%1$s Modify the discussion group name is %2$s"</string>
@@ -28,9 +26,9 @@
     <string name="rc_conversation_list_my_chatroom">My chat room</string>
     <string name="rc_conversation_list_my_customer_service">Customer service list</string>
     <string name="rc_conversation_list_system_conversation">System message</string>
-    <string name="rc_conversation_list_app_public_service">Application Publice Servic</string>
-    <string name="rc_conversation_list_public_service">Publice Servic</string>
-    <string name="rc_conversation_list_dialog_set_top">Sticky on top</string>
+    <string name="rc_conversation_list_app_public_service">Application Public Service</string>
+    <string name="rc_conversation_list_public_service">Public Service</string>
+    <string name="rc_conversation_list_dialog_set_top">Sticky on Top</string>
     <string name="rc_conversation_list_dialog_cancel_top">Remove from top</string>
     <string name="rc_conversation_list_dialog_remove">Delete conversation</string>
     <string name="rc_conversation_list_popup_set_top">Stuck on top</string>
@@ -73,8 +71,6 @@
     <string name="rc_dialog_ok">OK</string>
     <string name="rc_input_send">Send</string>
 
-    <string name="rc_plugins_location">Location</string>
-    <string name="rc_plugins_image">Image</string>
     <string name="rc_plugins_camera">Camera</string>
     <string name="rc_plugins_files">File</string>
 
@@ -84,10 +80,10 @@
     <string name="rc_pub_service_info_unfollow">Unfollow</string>
     <string name="rc_pub_service_info_account">Official Account：%1$s</string>
 
-    <string name="rc_notice_network_unavailable">Network unavailable, check network</string>
+    <string name="rc_notice_network_unavailable">Network unavailable, please check your network</string>
     <string name="rc_notice_disconnect">Unable to access the server</string>
     <string name="rc_notice_tick">The account has been logged in to other devices</string>
-    <string name="rc_notice_connecting">Connecting to server</string>
+    <string name="rc_notice_connecting">Connecting...</string>
     <string name="rc_notice_create_discussion">Creating discussion</string>
     <string name="rc_notice_create_discussion_fail">Failed to create discussion groups</string>
     <string name="rc_notice_enter_chatroom">Enter the chatroom</string>
@@ -145,7 +141,7 @@
     <string name="rc_cs_cancel">Cancel</string>
 
     <!-- LargePictureActivity -->
-    <string name="rc_save_picture">Save Picture</string>
+    <string name="rc_save_picture">Save Photo</string>
     <string name="rc_save_picture_at">Picture saved at %s</string>
     <string name="rc_src_file_not_found">Source file not found.</string>
 
@@ -185,7 +181,7 @@
     <string name="rc_ac_file_send_preview">Send File</string>
     <string name="rc_ad_send_file_no_select_file">Send</string>
     <string name="rc_ad_send_file_select_file">Send(%1$s/20)</string>
-    <string name="rc_fr_no_file_message">%1$s file does not exist</string>
+    <string name="rc_fr_no_file_message"> No file %1$scurrently</string>
     <string name="rc_fr_loading_file_message">Loading...</string>
     <string name="rc_fr_file_category_title_text">Document</string>
     <string name="rc_fr_file_category_title_video">Video</string>

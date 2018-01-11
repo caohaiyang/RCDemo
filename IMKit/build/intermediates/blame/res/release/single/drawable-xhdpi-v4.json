@@ -36,6 +36,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/u1f3c0.png"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f61c.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/u1f61c.png"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ad_list_audio_icon.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_ad_list_audio_icon.png"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_default_discussion_portrait.png",
@@ -552,6 +560,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/u1f680.png"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f525.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/u1f525.png"
     },
@@ -888,6 +900,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_conversation_list_msg_sending.png"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_cs_default_portrait.png",
+        "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_cs_default_portrait.png"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_cs_star_hover.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_cs_star_hover.png"
     },
@@ -1120,6 +1136,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_receive_voice_three.png"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f636.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/u1f636.png"
     },
@@ -1194,6 +1214,10 @@
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_send_voice_one.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/src/main/res/drawable-xhdpi/rc_send_voice_one.png"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/rongcloud/.android/build-cache/6f69891721030e794f749d69480a05f4096b5c56/output/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u270c.png",

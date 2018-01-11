@@ -14,6 +14,11 @@ android {
             abiFilters "armeabi-v7a", "x86"
         }
     }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false
@@ -28,12 +33,11 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
-    compile project(':IMLib')
-    compile project(':IMKit')
     compile project(':RedPacket')
-    compile project(':CallKit')
     compile project(':CallLib')
-    compile 'com.android.support:appcompat-v7:26.+'
+    compile project(':IMKit')
+    compile project(':IMLib')
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:26.0.0-alpha1'
     compile 'com.squareup.picasso:picasso:2.5.2'

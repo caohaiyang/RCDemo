@@ -188,12 +188,12 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/round_spinner_fade_02.png"
     },
     {
-        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_1.png",
-        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_1.png"
-    },
-    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_card.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_ic_card.png"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_1.png",
+        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_1.png"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_405.png",
@@ -224,12 +224,12 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/round_spinner_fade_03.png"
     },
     {
-        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_2.png",
-        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_2.png"
-    },
-    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/top_back.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/top_back.png"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/open_rp_2.png",
+        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/open_rp_2.png"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_xiaobao_icon.png",
@@ -284,6 +284,10 @@
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/round_spinner_fade_07.png"
     },
     {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_to_hongbao2.png",
+        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_bg_to_hongbao2.png"
+    },
+    {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/round_spinner_fade_01.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/round_spinner_fade_01.png"
     },
@@ -330,6 +334,10 @@
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_pin.png",
         "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_pin.png"
+    },
+    {
+        "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_bg_from_hongbao2.png",
+        "source": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/_bg_from_hongbao2.png"
     },
     {
         "merged": "/Users/rongcloud/Desktop/chy/RCDemo/RedPacket/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/_ic_pin.png",
