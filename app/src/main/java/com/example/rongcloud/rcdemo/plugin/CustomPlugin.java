@@ -40,31 +40,15 @@ public class CustomPlugin implements IPluginModule {
     @Override
     public void onClick(Fragment fragment, RongExtension rongExtension) {
 
-        InformationNotificationMessage informationNotificationMessage
-                = new InformationNotificationMessage("this is a piece of info msg");
-        RongIM.getInstance().insertIncomingMessage(
-                rongExtension.getConversationType(),
-                rongExtension.getTargetId(),
-                "",null,
-                informationNotificationMessage,null);
-//        CustomMessage message = CustomMessage.obtain("自定义消息\n自定义消息\n<a href=\"www.baidu.com\">自定义消息</a>");
-//        Message msg = Message.obtain(rongExtension.getTargetId(), rongExtension.getConversationType(), message);
-//        RongIM.getInstance().sendMessage(msg, message.getContent(), null, new IRongCallback.ISendMessageCallback() {
-//            @Override
-//            public void onAttached(Message message) {
-//
-//            }
-//
-//            @Override
-//            public void onSuccess(Message message) {
-//                Log.i(TAG, "onSuccess: custom msg");
-//            }
-//
-//            @Override
-//            public void onError(Message message, RongIMClient.ErrorCode errorCode) {
-//
-//            }
-//        });
+//        InformationNotificationMessage informationNotificationMessage
+//                = new InformationNotificationMessage("this is a piece of info msg");
+//        RongIM.getInstance().insertIncomingMessage(
+//                rongExtension.getConversationType(),
+//                rongExtension.getTargetId(),
+//                "",null,
+//                informationNotificationMessage,null);
+        CustomMessage message = CustomMessage.obtain("自定义消息\n自定义消息\n<a href=\"www.baidu.com\">自定义消息</a>");
+        RongIM.getInstance().insertOutgoingMessage(rongExtension.getConversationType(), rongExtension.getTargetId(), Message.SentStatus.SENT, message, null);
     }
 
     @Override
